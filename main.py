@@ -1,4 +1,13 @@
 import requests
+print"\033[1;97m  ______                      __" 
+
+	print(" /_  __/___ __________ ____  / /_\033[1;92m   " +durasi)	print"\033[1;97m  / / / __ `/ ___/ __ `/ _ \/ __/"
+
+	print" / / / /_/ / /  / /_/ /  __/ /_"
+
+	print"/_/  \__,_/_/   \__, /\___/\__/"
+
+	print"               /____/"
 
 number = int (input("Enter Your Number :"))
 
